@@ -1,6 +1,3 @@
-Below is an example of how you might replicate an interesting insight using Excel for a dashboard similar to the SQL-driven Scott Supermarket analysis—except now focused on our "Billionaires Dashboard." This narrative demonstrates how you could leverage Excel’s powerful pivot tables, charts, and formulas to derive actionable insights.
-
----
 
 ### Excel-Driven Billionaires Insights
 
